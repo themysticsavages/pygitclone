@@ -19,11 +19,11 @@ You specify the name and the repo. Below are some examples.
 
 ## Examples
 
-Getting a single repo from llk:
+Getting a single repo from example user:
 ```
-py main.py llk scratch-gui
+py main.py example repo
 ```
-Getting every repo from llk:
+Getting every repo from example user:
 ```
-py main.py llk *
+py main.py example *
 ```
